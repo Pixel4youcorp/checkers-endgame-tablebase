@@ -1,5 +1,8 @@
 # Checkers endgame tablebase — every position with four pieces or fewer, solved
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23002848.svg)](https://doi.org/10.5281/zenodo.23002848)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **6,408,836 American checkers (English draughts) positions, each with an exact
 result and an exact distance to the end.** Not an evaluation, not a search:
 won, lost or drawn, and in how many moves. One 1.8 MB file, a reader in one
@@ -13,6 +16,7 @@ Python module, no dependencies and no service to call.
 | File | 1.82 MB gzipped, 7.11 MB raw, one byte per slot |
 | Rules | American checkers / English draughts, 8×8, no flying kings |
 | Licence | [CC BY 4.0](LICENSE) — free to use, attribution required |
+| Archived | [Zenodo, DOI 10.5281/zenodo.23002848](https://doi.org/10.5281/zenodo.23002848) |
 
 Play any of it in the browser at
 **[checkersarena.io/checkers-endgame/](https://checkersarena.io/checkers-endgame/)**.
@@ -171,12 +175,20 @@ together as a single group.
 
 ## Citing it
 
-If this is useful in something you publish, a link is all that is asked — the
-licence is CC BY 4.0. There is a `CITATION.cff` in the repository, and GitHub
-will format a citation from it for you.
+The dataset is archived at CERN and has a permanent DOI, so it stays citable
+whether or not this repository does:
 
 > Checkers Arena (2026). *Checkers endgame tablebase: all positions with four
-> pieces or fewer, solved exactly.* https://checkersarena.io/checkers-endgame/
+> pieces or fewer, solved exactly.* Zenodo.
+> [https://doi.org/10.5281/zenodo.23002848](https://doi.org/10.5281/zenodo.23002848)
+
+Use **10.5281/zenodo.23002848** — the concept DOI, which always
+resolves to the newest version. 10.5281/zenodo.23002849 points at
+v1.0.0 specifically, which is what you want only if you need to pin the exact
+bytes you worked with.
+
+`CITATION.cff` is in the repository, so GitHub's "Cite this repository" button
+will format it for you in BibTeX or APA.
 
 ## Limits, stated plainly
 
