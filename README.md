@@ -195,6 +195,12 @@ will format a citation from it for you.
 
 ## Licence
 
-The **data** (`endgame4.bin.gz`) is [CC BY 4.0](LICENSE): use it anywhere,
-including commercially, with attribution. The **code** in this repository is
-MIT.
+The **data** — `endgame4.bin.gz` and `cases.json` — is
+[CC BY 4.0](LICENSE): use it anywhere, including commercially, as long as you
+credit it. A credit for a dataset is normally a link:
+
+> Checkers endgame tablebase by [Checkers Arena](https://checkersarena.io/),
+> licensed under CC BY 4.0.
+
+The **code** — `checkers_endgame.py` and `verify_reader.py` — is MIT, see
+[LICENSE-CODE](LICENSE-CODE).
