@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Checkers endgame tablebase: all positions with four pieces or fewer, solved exactly"
+message: "If you use this dataset, please cite it."
+type: dataset
+abstract: >-
+  A complete endgame tablebase for American checkers (English draughts):
+  6,408,836 positions with four pieces or fewer, each with an exact result
+  (win, loss or draw) and an exact distance to the end in plies. The longest
+  forced win takes 109 plies. Distributed as a single byte array, one byte per
+  slot, 1.82 MB gzipped, with a dependency-free Python reader and a full
+  specification of the indexing scheme.
+authors:
+  - name: "Checkers Arena"
+    website: "https://checkersarena.io/"
+repository-code: "https://github.com/Pixel4youcorp/checkers-endgame-tablebase"
+url: "https://checkersarena.io/checkers-endgame/"
+license: CC-BY-4.0
+date-released: "2026-09-27"
+version: "1.0.0"
+keywords:
+  - checkers
+  - draughts
+  - English draughts
+  - endgame tablebase
+  - retrograde analysis
+  - combinatorial game theory
+  - solved games
+  - game AI

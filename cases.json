@@ -1,0 +1,4863 @@
+[
+ {
+  "code": "3R6B7R6b6r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1569962,
+  "legal": [
+   "0716",
+   "4534",
+   "4536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "11b1r18r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512807,
+  "legal": [
+   "3221",
+   "3223"
+  ]
+ },
+ {
+  "code": "3B4R4B8r9r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 3686697,
+  "legal": [
+   "2143"
+  ]
+ },
+ {
+  "code": "4B4R22r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 292,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "15b1r1B1R10b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4221730,
+  "legal": [
+   "3645",
+   "4756"
+  ]
+ },
+ {
+  "code": "18b6B5Rb",
+  "outcome": "win",
+  "plies": 17,
+  "moves": 9,
+  "slot": 3377688,
+  "legal": [
+   "4554",
+   "4556",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "2B4r1B15R6r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3457006,
+  "legal": [
+   "1607",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "R19b11r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 175636,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "14r3r10B2r",
+  "outcome": "win",
+  "plies": 43,
+  "moves": 22,
+  "slot": 5844501,
+  "legal": [
+   "3423",
+   "3425",
+   "4536"
+  ]
+ },
+ {
+  "code": "7R8bb14r",
+  "outcome": "loss",
+  "plies": 46,
+  "moves": 23,
+  "slot": 652398,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "3b18R9r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 176235,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "7bB1rB20b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 5737801,
+  "legal": [
+   "1634"
+  ]
+ },
+ {
+  "code": "10b2r5rB11r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6153892,
+  "legal": [
+   "3221",
+   "3223",
+   "4736"
+  ]
+ },
+ {
+  "code": "5B19r4B1b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 1424622,
+  "legal": [
+   "7452"
+  ]
+ },
+ {
+  "code": "17r7b6b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512614,
+  "legal": [
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "20r2b8b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512667,
+  "legal": [
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "6bR3R12b7r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 1897510,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "2736"
+  ]
+ },
+ {
+  "code": "1R18B11r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 52,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "10r2b4r13b",
+  "outcome": "loss",
+  "plies": 42,
+  "moves": 21,
+  "slot": 2932795,
+  "legal": [
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "6b6r1b9B6r",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 3050305,
+  "legal": [
+   "3221",
+   "3223"
+  ]
+ },
+ {
+  "code": "1R13Rb5R9r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 2266104,
+  "legal": [
+   "0312",
+   "0314",
+   "3625",
+   "3627",
+   "3645",
+   "3647",
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "2b18R10r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 176206,
+  "legal": [
+   "5241",
+   "5243",
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "1b4b6R6R11r",
+  "outcome": "win",
+  "plies": 19,
+  "moves": 10,
+  "slot": 1950542,
+  "legal": [
+   "3221",
+   "3223",
+   "3241",
+   "3243",
+   "5041",
+   "5061"
+  ]
+ },
+ {
+  "code": "R1R9R3b15r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 2226204,
+  "legal": [
+   "3052"
+  ]
+ },
+ {
+  "code": "11B2r17b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 176193,
+  "legal": [
+   "2716",
+   "2736"
+  ]
+ },
+ {
+  "code": "18b8R4r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 176390,
+  "legal": [
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "2R1Br26r",
+  "outcome": "win",
+  "plies": 15,
+  "moves": 8,
+  "slot": 3369372,
+  "legal": [
+   "0514",
+   "0516",
+   "1201",
+   "1203"
+  ]
+ },
+ {
+  "code": "6BR4B10b8b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 5081680,
+  "legal": [
+   "1403",
+   "1405",
+   "1423",
+   "1425",
+   "3021",
+   "3041",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "1b8B8R5B6b",
+  "outcome": "win",
+  "plies": 13,
+  "moves": 7,
+  "slot": 5427556,
+  "legal": [
+   "0312",
+   "0314",
+   "2514",
+   "2516",
+   "2534",
+   "2536",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "RB1R28b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 16397,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "B3r6R5r14b",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 1048372,
+  "legal": [
+   "0112"
+  ]
+ },
+ {
+  "code": "9bB2B10R7b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 5300959,
+  "legal": [
+   "2334",
+   "2514",
+   "2516",
+   "2534",
+   "2536",
+   "3221",
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "5b4B6R14b",
+  "outcome": "win",
+  "plies": 27,
+  "moves": 14,
+  "slot": 3391494,
+  "legal": [
+   "1221",
+   "1223",
+   "2514",
+   "2516",
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "3bB21r5b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 3863633,
+  "legal": [
+   "0716",
+   "1001",
+   "1021"
+  ]
+ },
+ {
+  "code": "6B16r4B3b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 1423980,
+  "legal": [
+   "1403",
+   "1405",
+   "1423",
+   "1425",
+   "7061"
+  ]
+ },
+ {
+  "code": "6r1bR1B20r",
+  "outcome": "win",
+  "plies": 33,
+  "moves": 17,
+  "slot": 3932131,
+  "legal": [
+   "1403",
+   "1405",
+   "2312",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "3b9R15B2r",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 188285,
+  "legal": [
+   "3221",
+   "3223",
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "R4B9b15Bb",
+  "outcome": "win",
+  "plies": 15,
+  "moves": 8,
+  "slot": 5208855,
+  "legal": [
+   "1203",
+   "1221",
+   "1223",
+   "3645",
+   "3647",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "25b4r1r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 2513297,
+  "legal": [
+   "7452"
+  ]
+ },
+ {
+  "code": "23R6B1b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 40,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "14R1r3R7B3b",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 254435,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "2B15B4R5r2r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 3805315,
+  "legal": [
+   "5634"
+  ]
+ },
+ {
+  "code": "10Rr17B2r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 3375797,
+  "legal": [
+   "2514",
+   "2516",
+   "2534",
+   "2536",
+   "2716"
+  ]
+ },
+ {
+  "code": "2R4b9b12B1b",
+  "outcome": "win",
+  "plies": 13,
+  "moves": 7,
+  "slot": 6737841,
+  "legal": [
+   "1625",
+   "1627",
+   "4352",
+   "4354",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "8b14r8b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513084,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "b19R11b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359755,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "RB30r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "7RB3B3R15b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 1304675,
+  "legal": [
+   "3052"
+  ]
+ },
+ {
+  "code": "10R6RB9r3b",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 387440,
+  "legal": [
+   "4534",
+   "4536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "1B6r9r13r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 5844281,
+  "legal": [
+   "2110",
+   "2112",
+   "4534",
+   "4536"
+  ]
+ },
+ {
+  "code": "bR1R22B5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1432986,
+  "legal": [
+   "0312",
+   "0314",
+   "0716"
+  ]
+ },
+ {
+  "code": "17R5b4B3r",
+  "outcome": "loss",
+  "plies": 34,
+  "moves": 17,
+  "slot": 192508,
+  "legal": [
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "R5B11r13b",
+  "outcome": "loss",
+  "plies": 38,
+  "moves": 19,
+  "slot": 199359,
+  "legal": [
+   "1403",
+   "1405",
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "3b17R1R8r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 1423163,
+  "legal": [
+   "5241",
+   "5243",
+   "5261",
+   "5263",
+   "5645",
+   "5647",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "4R7B13r5r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 3390948,
+  "legal": [
+   "1001",
+   "1021",
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "12B10r4r2Rb",
+  "outcome": "loss",
+  "plies": 22,
+  "moves": 11,
+  "slot": 892512,
+  "legal": [
+   "3021",
+   "3041"
+  ]
+ },
+ {
+  "code": "4b1R7r10B6b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4531857,
+  "legal": [
+   "1021",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "3b1r23R2b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 2535666,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "5R1Bb7r15r",
+  "outcome": "win",
+  "plies": 41,
+  "moves": 21,
+  "slot": 4215263,
+  "legal": [
+   "1230"
+  ]
+ },
+ {
+  "code": "20R2b6BBr",
+  "outcome": "loss",
+  "plies": 26,
+  "moves": 13,
+  "slot": 494847,
+  "legal": [
+   "5041",
+   "5061"
+  ]
+ },
+ {
+  "code": "4b3B9r13b",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 3862633,
+  "legal": [
+   "2112",
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "6r5b15R1B1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3949302,
+  "legal": [
+   "1403",
+   "1405",
+   "7061"
+  ]
+ },
+ {
+  "code": "6b11R1r9r1b",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 3193685,
+  "legal": [
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "1R4b25b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359582,
+  "legal": [
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "1b12rb16b",
+  "outcome": "win",
+  "plies": 29,
+  "moves": 15,
+  "slot": 6050277,
+  "legal": [
+   "0312",
+   "0314",
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "B10B9R10b",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 1169130,
+  "legal": [
+   "0110",
+   "0112",
+   "2716",
+   "2736"
+  ]
+ },
+ {
+  "code": "10b6B2b6R4b",
+  "outcome": "win",
+  "plies": 13,
+  "moves": 7,
+  "slot": 6679864,
+  "legal": [
+   "2534",
+   "2536",
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "5061"
+  ]
+ },
+ {
+  "code": "10r2r6b7B3r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6089708,
+  "legal": [
+   "2514",
+   "2516",
+   "3221",
+   "3223"
+  ]
+ },
+ {
+  "code": "7B19r4r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359623,
+  "legal": [
+   "6756"
+  ]
+ },
+ {
+  "code": "B10R6b13r",
+  "outcome": "loss",
+  "plies": 20,
+  "moves": 10,
+  "slot": 186944,
+  "legal": [
+   "2716",
+   "2736"
+  ]
+ },
+ {
+  "code": "2b4r1b5R16b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 6337120,
+  "legal": [
+   "0527"
+  ]
+ },
+ {
+  "code": "13r17Br",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359199,
+  "legal": [
+   "3221",
+   "3223"
+  ]
+ },
+ {
+  "code": "11R2B13B3b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 1158068,
+  "legal": [
+   "3423",
+   "3425",
+   "3443",
+   "3445",
+   "7061"
+  ]
+ },
+ {
+  "code": "1BR11b10b6b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 6615889,
+  "legal": [
+   "0312",
+   "0314",
+   "3443",
+   "3445",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "9R3R16B1r",
+  "outcome": "win",
+  "plies": 23,
+  "moves": 12,
+  "slot": 1156414,
+  "legal": [
+   "2312",
+   "2314",
+   "2334",
+   "3221",
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "3R21B2Br2r",
+  "outcome": "win",
+  "plies": 45,
+  "moves": 23,
+  "slot": 3795643,
+  "legal": [
+   "7254"
+  ]
+ },
+ {
+  "code": "16R11B3r",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 540,
+  "legal": [
+   "4130",
+   "4132",
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "16r13B1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359294,
+  "legal": [
+   "4130",
+   "4132"
+  ]
+ },
+ {
+  "code": "2R10B18b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 605,
+  "legal": [
+   "3221",
+   "3223",
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "19bR11r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 176195,
+  "legal": [
+   "5041",
+   "5061"
+  ]
+ },
+ {
+  "code": "5R4r8r2B9r",
+  "outcome": "win",
+  "plies": 19,
+  "moves": 10,
+  "slot": 6646826,
+  "legal": [
+   "1201",
+   "1203",
+   "1221",
+   "1223",
+   "2514",
+   "2516",
+   "4736"
+  ]
+ },
+ {
+  "code": "3R13B2r8B2r",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 3652815,
+  "legal": [
+   "0716",
+   "5041"
+  ]
+ },
+ {
+  "code": "b1B5r14b8b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 7238967,
+  "legal": [
+   "0110",
+   "0112",
+   "0514",
+   "0516",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "1b3r9R5r10b",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 3263096,
+  "legal": [
+   "0321"
+  ]
+ },
+ {
+  "code": "1B3R11R8r5r",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 5361657,
+  "legal": [
+   "1201",
+   "1221",
+   "1223",
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "B3r20rr5r",
+  "outcome": "win",
+  "plies": 13,
+  "moves": 7,
+  "slot": 7314740,
+  "legal": [
+   "6352",
+   "6354",
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "1R11B2R12B2r",
+  "outcome": "win",
+  "plies": 27,
+  "moves": 14,
+  "slot": 1229907,
+  "legal": [
+   "4123"
+  ]
+ },
+ {
+  "code": "11RR2B16b",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 9169,
+  "legal": [
+   "3625",
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "4b18r8r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513080,
+  "legal": [
+   "5645",
+   "5647"
+  ]
+ },
+ {
+  "code": "10B10r10r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359434,
+  "legal": [
+   "5241",
+   "5243"
+  ]
+ },
+ {
+  "code": "3R8B7B11r",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 2714,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "19B6R5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 851,
+  "legal": [
+   "6554",
+   "6556",
+   "6574",
+   "6576"
+  ]
+ },
+ {
+  "code": "22B8rr",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2359766,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "1b21r8b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 2513280,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "11r3b12B3r",
+  "outcome": "loss",
+  "plies": 38,
+  "moves": 19,
+  "slot": 2520108,
+  "legal": [
+   "2716"
+  ]
+ },
+ {
+  "code": "6br15r8b",
+  "outcome": "loss",
+  "plies": 42,
+  "moves": 21,
+  "slot": 2935502,
+  "legal": [
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "24R2R2B1r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 1165630,
+  "legal": [
+   "6150",
+   "6152",
+   "6170",
+   "6172",
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "2R5b23b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359517,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "3b6Rb9b10b",
+  "outcome": "win",
+  "plies": 39,
+  "moves": 20,
+  "slot": 7327561,
+  "legal": [
+   "0716",
+   "2736",
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "13B5r1Bb9r",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 2757871,
+  "legal": [
+   "4736"
+  ]
+ },
+ {
+  "code": "R8r2b12B6r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4010225,
+  "legal": [
+   "0110",
+   "0112",
+   "2312",
+   "2314"
+  ]
+ },
+ {
+  "code": "7r15B8r",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2358999,
+  "legal": [
+   "1605",
+   "1607"
+  ]
+ },
+ {
+  "code": "12B4r6r7r",
+  "outcome": "win",
+  "plies": 53,
+  "moves": 27,
+  "slot": 5847748,
+  "legal": [
+   "4332",
+   "4334",
+   "6150",
+   "6152"
+  ]
+ },
+ {
+  "code": "5B6R4B14b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 1164467,
+  "legal": [
+   "1201",
+   "1203",
+   "1221",
+   "1223",
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "5R6B13R5b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 10778,
+  "legal": [
+   "3021",
+   "3041"
+  ]
+ },
+ {
+  "code": "3R10B17r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 110,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "4RB5r15r4r",
+  "outcome": "win",
+  "plies": 15,
+  "moves": 8,
+  "slot": 6799353,
+  "legal": [
+   "1001",
+   "1021",
+   "2716",
+   "6756"
+  ]
+ },
+ {
+  "code": "11r14B5r",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 2359130,
+  "legal": [
+   "2716"
+  ]
+ },
+ {
+  "code": "1b10B5r13b",
+  "outcome": "win",
+  "plies": 15,
+  "moves": 8,
+  "slot": 3865209,
+  "legal": [
+   "0312",
+   "0314",
+   "3021",
+   "3041"
+  ]
+ },
+ {
+  "code": "2R11b17r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 175686,
+  "legal": [
+   "0514",
+   "0516"
+  ]
+ },
+ {
+  "code": "1R6b23b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359518,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "3R18b1r6rb",
+  "outcome": "loss",
+  "plies": 14,
+  "moves": 7,
+  "slot": 2999044,
+  "legal": [
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "5b8R11b5b",
+  "outcome": "win",
+  "plies": 47,
+  "moves": 24,
+  "slot": 5848681,
+  "legal": [
+   "1221",
+   "1223",
+   "6574",
+   "6576"
+  ]
+ },
+ {
+  "code": "3R6r15b3R1b",
+  "outcome": "loss",
+  "plies": 20,
+  "moves": 10,
+  "slot": 2563099,
+  "legal": [
+   "6576"
+  ]
+ },
+ {
+  "code": "22r7B1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359486,
+  "legal": [
+   "5443",
+   "5445"
+  ]
+ },
+ {
+  "code": "6R1r16B6b",
+  "outcome": "loss",
+  "plies": 32,
+  "moves": 16,
+  "slot": 182649,
+  "legal": [
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "27R2B1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 36,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "3R6R4B16b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 9359,
+  "legal": [
+   "3614"
+  ]
+ },
+ {
+  "code": "RB8R18B2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1386710,
+  "legal": [
+   "0312",
+   "0314",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "11R11b5r2b",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 2516996,
+  "legal": [
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "3R5b20B1r",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 179518,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "11r5r4r2B6r",
+  "outcome": "win",
+  "plies": 43,
+  "moves": 22,
+  "slot": 7287597,
+  "legal": [
+   "2716",
+   "4332",
+   "4334",
+   "5445"
+  ]
+ },
+ {
+  "code": "3R13b9r4b",
+  "outcome": "loss",
+  "plies": 12,
+  "moves": 6,
+  "slot": 2522444,
+  "legal": [
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "11R10B9b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 308,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "2R6b18r3r",
+  "outcome": "win",
+  "plies": 37,
+  "moves": 19,
+  "slot": 3862937,
+  "legal": [
+   "0514",
+   "0516",
+   "7061"
+  ]
+ },
+ {
+  "code": "2B8R5R14r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 1158306,
+  "legal": [
+   "2716",
+   "2736",
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "9R8R5b7r",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 1420048,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334",
+   "4534",
+   "4536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "23R6B1b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 40,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "14B2b2r6R4b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4168764,
+  "legal": [
+   "3423",
+   "3425",
+   "3445",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "8r9b2b7B2b",
+  "outcome": "win",
+  "plies": 31,
+  "moves": 16,
+  "slot": 6957763,
+  "legal": [
+   "4554",
+   "4556",
+   "5261",
+   "5263",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "7R18b5b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2358936,
+  "legal": [
+   "6574",
+   "6576"
+  ]
+ },
+ {
+  "code": "8b1B13r1r5b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4907060,
+  "legal": [
+   "2130",
+   "2132",
+   "2514",
+   "2516",
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "BR7r14b7r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4011480,
+  "legal": [
+   "0312",
+   "0314",
+   "2312",
+   "2314"
+  ]
+ },
+ {
+  "code": "16R5B9b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 303,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "2B7b5r15r",
+  "outcome": "loss",
+  "plies": 38,
+  "moves": 19,
+  "slot": 2524402,
+  "legal": [
+   "4130",
+   "4132"
+  ]
+ },
+ {
+  "code": "18R12Br",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 607,
+  "legal": [
+   "4534",
+   "4536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "2R7B9R1r9b",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 501713,
+  "legal": [
+   "2514",
+   "2516",
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "b13r17r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512824,
+  "legal": [
+   "3423",
+   "3425"
+  ]
+ },
+ {
+  "code": "21rr3B5r",
+  "outcome": "win",
+  "plies": 49,
+  "moves": 25,
+  "slot": 5846706,
+  "legal": [
+   "5241",
+   "5243",
+   "5443",
+   "5445"
+  ]
+ },
+ {
+  "code": "11b5B4r4r4b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 4868140,
+  "legal": [
+   "4365"
+  ]
+ },
+ {
+  "code": "5B2rr22r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 5841693,
+  "legal": [
+   "2103",
+   "2301"
+  ]
+ },
+ {
+  "code": "3R13b14r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 175717,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "2B4r24b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 176452,
+  "legal": [
+   "0527"
+  ]
+ },
+ {
+  "code": "4B9r17b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 176389,
+  "legal": [
+   "1001",
+   "1021"
+  ]
+ },
+ {
+  "code": "2R11Br11R4b",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 449626,
+  "legal": [
+   "3423",
+   "3425",
+   "3443",
+   "3445"
+  ]
+ },
+ {
+  "code": "14B8b2r4Br",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2855839,
+  "legal": [
+   "6547"
+  ]
+ },
+ {
+  "code": "1B9Bb3R15r",
+  "outcome": "loss",
+  "plies": 14,
+  "moves": 7,
+  "slot": 433400,
+  "legal": [
+   "4132",
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "12B1r4r5b6r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6155260,
+  "legal": [
+   "3423",
+   "3425",
+   "4736"
+  ]
+ },
+ {
+  "code": "5b16rB7Bb",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 5758705,
+  "legal": [
+   "1221",
+   "1223",
+   "5645",
+   "5647",
+   "5665",
+   "5667",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "4R2b17R5Br",
+  "outcome": "win",
+  "plies": 77,
+  "moves": 39,
+  "slot": 1702015,
+  "legal": [
+   "1001",
+   "1021",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "2R24r1BR1r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 5387029,
+  "legal": [
+   "0514",
+   "0516",
+   "6756",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "4b5r21r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512716,
+  "legal": [
+   "2514",
+   "2516"
+  ]
+ },
+ {
+  "code": "2R8b3B14B1b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 5265813,
+  "legal": [
+   "3625",
+   "3645",
+   "3647",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "17R4b9b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359054,
+  "legal": [
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "1B21b4R3r",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 202337,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "6B7B5r3b7r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2772625,
+  "legal": [
+   "5041"
+  ]
+ },
+ {
+  "code": "13B3r1BB11r",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 2439468,
+  "legal": [
+   "4321"
+  ]
+ },
+ {
+  "code": "R7B19R3b",
+  "outcome": "loss",
+  "plies": 32,
+  "moves": 16,
+  "slot": 12900,
+  "legal": [
+   "2110",
+   "2112",
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "18r2B10r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359349,
+  "legal": [
+   "4534",
+   "4536"
+  ]
+ },
+ {
+  "code": "3b8R8B9Rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3783011,
+  "legal": [
+   "0716",
+   "5241",
+   "5243",
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "3R18b5B1B1b",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 5087476,
+  "legal": [
+   "5463",
+   "5465",
+   "7061",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "1b5r9B9B4b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 5816148,
+  "legal": [
+   "0312",
+   "0314",
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "25R4BRr",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 1169310,
+  "legal": [
+   "6352",
+   "6354",
+   "6372",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "3R26B1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 126,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "15r1R6b6Bb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3952998,
+  "legal": [
+   "6170",
+   "6172",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "6B10B4r9r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2368846,
+  "legal": [
+   "5432"
+  ]
+ },
+ {
+  "code": "3b10R2b4r9r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 4892431,
+  "legal": [
+   "3452",
+   "5432"
+  ]
+ },
+ {
+  "code": "7r7r10B4rr",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 7354222,
+  "legal": [
+   "7654"
+  ]
+ },
+ {
+  "code": "18B11Brr",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2373621,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "B7r7B15b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 1428951,
+  "legal": [
+   "0110",
+   "0112",
+   "4130",
+   "4132",
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "22b2r2B1B1b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 5521934,
+  "legal": [
+   "5472",
+   "7452"
+  ]
+ },
+ {
+  "code": "b12b15r2r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2936808,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "12b4r14b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512978,
+  "legal": [
+   "3041"
+  ]
+ },
+ {
+  "code": "2b23bB2r1r",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 3262851,
+  "legal": [
+   "7456"
+  ]
+ },
+ {
+  "code": "17R7R3B2b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 2113,
+  "legal": [
+   "7254"
+  ]
+ },
+ {
+  "code": "2b17b5r5r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2935788,
+  "legal": [
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "10R8R5B2R3b",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 48055,
+  "legal": [
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "8R4b16BBb",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 5230191,
+  "legal": [
+   "3241",
+   "3243",
+   "7463",
+   "7465",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "2b4b7R13B2b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 6860740,
+  "legal": [
+   "0514",
+   "1625",
+   "1627",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "4B10r12r1B1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2006971,
+  "legal": [
+   "1001",
+   "1021",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "17R4B9r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 566,
+  "legal": [
+   "4365"
+  ]
+ },
+ {
+  "code": "9r6r13B1r",
+  "outcome": "win",
+  "plies": 45,
+  "moves": 23,
+  "slot": 5843542,
+  "legal": [
+   "2312",
+   "2314",
+   "4130",
+   "4132"
+  ]
+ },
+ {
+  "code": "14B5r8r2b",
+  "outcome": "loss",
+  "plies": 54,
+  "moves": 27,
+  "slot": 656083,
+  "legal": [
+   "3423",
+   "3425",
+   "3443",
+   "3445"
+  ]
+ },
+ {
+  "code": "1b25r4b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513276,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "14rB2B6B6r",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 2425732,
+  "legal": [
+   "3423",
+   "3425"
+  ]
+ },
+ {
+  "code": "9b14BB3r2r",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2890404,
+  "legal": [
+   "7250",
+   "7254"
+  ]
+ },
+ {
+  "code": "5B2r13R9b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 200553,
+  "legal": [
+   "1230"
+  ]
+ },
+ {
+  "code": "8r17R2B2b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 179045,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "7b20r3b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513107,
+  "legal": [
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "8B12R2b5B1b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 5063714,
+  "legal": [
+   "2110",
+   "2112",
+   "2130",
+   "2132",
+   "6170",
+   "6172",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "11b1B2R15r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 191213,
+  "legal": [
+   "4123"
+  ]
+ },
+ {
+  "code": "7b8RB12B1b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 5328359,
+  "legal": [
+   "1625",
+   "1627",
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "4b3b1r21b",
+  "outcome": "win",
+  "plies": 51,
+  "moves": 26,
+  "slot": 6048461,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "3b12BB6R7b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 5392703,
+  "legal": [
+   "0716",
+   "4130",
+   "4132",
+   "4150",
+   "4152",
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "7r10r2b10r",
+  "outcome": "win",
+  "plies": 39,
+  "moves": 20,
+  "slot": 6043477,
+  "legal": [
+   "1605",
+   "1607",
+   "4534",
+   "4536"
+  ]
+ },
+ {
+  "code": "6R3b7bR12b",
+  "outcome": "loss",
+  "plies": 26,
+  "moves": 13,
+  "slot": 5925568,
+  "legal": [
+   "2534",
+   "2536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "B7r21r1r",
+  "outcome": "win",
+  "plies": 21,
+  "moves": 11,
+  "slot": 5851768,
+  "legal": [
+   "2110",
+   "2112",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "b1R5r23r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 3845008,
+  "legal": [
+   "0514",
+   "0516",
+   "2110",
+   "2112"
+  ]
+ },
+ {
+  "code": "2B2B9r16r",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2365244,
+  "legal": [
+   "3625",
+   "3627"
+  ]
+ },
+ {
+  "code": "b14BR15b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 3396455,
+  "legal": [
+   "0110",
+   "0112",
+   "3625",
+   "3627",
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "12R5B13b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 435,
+  "legal": [
+   "4534",
+   "4536",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "5b10R10R1R2b",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2483247,
+  "legal": [
+   "1221",
+   "1223"
+  ]
+ },
+ {
+  "code": "5b10b7r7r",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2934965,
+  "legal": [
+   "6150",
+   "6152"
+  ]
+ },
+ {
+  "code": "2R10b18b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359357,
+  "legal": [
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "1R3b15r10r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 3856633,
+  "legal": [
+   "0321"
+  ]
+ },
+ {
+  "code": "9R1R9R3b6b",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 2385324,
+  "legal": [
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "R19R2b8b",
+  "outcome": "loss",
+  "plies": 32,
+  "moves": 16,
+  "slot": 2362236,
+  "legal": [
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "10b5r14rr",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 6050998,
+  "legal": [
+   "4130",
+   "4132",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "5R3Rb5R15r",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 2236838,
+  "legal": [
+   "1201",
+   "1203",
+   "1221",
+   "2314",
+   "2332",
+   "2334",
+   "4130",
+   "4132",
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "3b14R4r5B2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4556645,
+  "legal": [
+   "0716",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "b24R6b",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2359750,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "7B12R3B1r5r",
+  "outcome": "win",
+  "plies": 29,
+  "moves": 15,
+  "slot": 3756339,
+  "legal": [
+   "5072"
+  ]
+ },
+ {
+  "code": "1R10B1B6r10r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3667375,
+  "legal": [
+   "0312",
+   "0314",
+   "5241",
+   "5243"
+  ]
+ },
+ {
+  "code": "1R12B12RR3r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 2177390,
+  "legal": [
+   "0312",
+   "0314",
+   "6756",
+   "6776",
+   "7061"
+  ]
+ },
+ {
+  "code": "5R1B4R14B4b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1308696,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "1627",
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "5b3b1R19rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6274532,
+  "legal": [
+   "1221",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "9r15B6b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 175806,
+  "legal": [
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "5b4r6Rb13b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6267134,
+  "legal": [
+   "1221",
+   "1223",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "11B14r5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359595,
+  "legal": [
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "8r2r7B7R4b",
+  "outcome": "loss",
+  "plies": 16,
+  "moves": 8,
+  "slot": 815588,
+  "legal": [
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "12b8r6B3b",
+  "outcome": "win",
+  "plies": 37,
+  "moves": 19,
+  "slot": 3854902,
+  "legal": [
+   "3041",
+   "7061"
+  ]
+ },
+ {
+  "code": "8b21R1r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 176464,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "18br8B3r",
+  "outcome": "loss",
+  "plies": 40,
+  "moves": 20,
+  "slot": 2527372,
+  "legal": [
+   "4736"
+  ]
+ },
+ {
+  "code": "8B1B15r4Rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1675040,
+  "legal": [
+   "2110",
+   "2112",
+   "2130",
+   "2132",
+   "2514",
+   "2516",
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "b5r7r7R9r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 6962780,
+  "legal": [
+   "1403",
+   "1405",
+   "3423",
+   "3425",
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "b20r4R2B2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4642717,
+  "legal": [
+   "0110",
+   "0112",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "10b14r6b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513026,
+  "legal": [
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "3R15B12b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 412,
+  "legal": [
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "7rrb13b8b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6449741,
+  "legal": [
+   "2332",
+   "2334",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "11B3r16b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 176192,
+  "legal": [
+   "2745"
+  ]
+ },
+ {
+  "code": "25B3R2r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 953,
+  "legal": [
+   "7254"
+  ]
+ },
+ {
+  "code": "2R23b2B2r",
+  "outcome": "loss",
+  "plies": 36,
+  "moves": 18,
+  "slot": 179165,
+  "legal": [
+   "0514",
+   "0516"
+  ]
+ },
+ {
+  "code": "8R9b13b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359191,
+  "legal": [
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "4R16b4r5b",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 2518891,
+  "legal": [
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "6b11r10R2b",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2532562,
+  "legal": [
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "1R16b3B8rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4132598,
+  "legal": [
+   "4556",
+   "5443",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "3R4B1r20rr",
+  "outcome": "win",
+  "plies": 19,
+  "moves": 10,
+  "slot": 6898652,
+  "legal": [
+   "0716",
+   "2514",
+   "2516",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "16R1b7b4rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6084575,
+  "legal": [
+   "4554",
+   "4556",
+   "6574"
+  ]
+ },
+ {
+  "code": "5b8R1r14Bb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4497737,
+  "legal": [
+   "1221",
+   "1223",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "2B9r11b7b",
+  "outcome": "win",
+  "plies": 29,
+  "moves": 15,
+  "slot": 3844887,
+  "legal": [
+   "0514",
+   "0516",
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "7r11R8Br2b",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 706892,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "9b11R10b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359466,
+  "legal": [
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "5r4b5b15r",
+  "outcome": "loss",
+  "plies": 50,
+  "moves": 25,
+  "slot": 2927788,
+  "legal": [
+   "1201",
+   "1203"
+  ]
+ },
+ {
+  "code": "15R1B10R3b",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 8091,
+  "legal": [
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "14B6R1R4r3r",
+  "outcome": "win",
+  "plies": 17,
+  "moves": 9,
+  "slot": 5397670,
+  "legal": [
+   "5241",
+   "5243",
+   "5261",
+   "5263",
+   "5645",
+   "5647",
+   "5665",
+   "5667",
+   "7061"
+  ]
+ },
+ {
+  "code": "13b12rR4r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 3861849,
+  "legal": [
+   "6554",
+   "6556",
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "6bb2B12r8r",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 3168562,
+  "legal": [
+   "5645",
+   "5647"
+  ]
+ },
+ {
+  "code": "5R3b10B10Rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3688429,
+  "legal": [
+   "2332",
+   "2334",
+   "5041",
+   "5061"
+  ]
+ },
+ {
+  "code": "R10b19rb",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2527695,
+  "legal": [
+   "2736"
+  ]
+ },
+ {
+  "code": "11b6r13b",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 2513005,
+  "legal": [
+   "2736"
+  ]
+ },
+ {
+  "code": "5R15r1b8b",
+  "outcome": "loss",
+  "plies": 38,
+  "moves": 19,
+  "slot": 2517258,
+  "legal": [
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "9B7R14b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 718,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "13B13r4b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 176124,
+  "legal": [
+   "3221",
+   "3223",
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "16b2R8B1R1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3573099,
+  "legal": [
+   "4150",
+   "4152",
+   "7061"
+  ]
+ },
+ {
+  "code": "21B4r5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359605,
+  "legal": [
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "8B5r9r5r1r",
+  "outcome": "win",
+  "plies": 17,
+  "moves": 9,
+  "slot": 7348348,
+  "legal": [
+   "3423",
+   "3425",
+   "6150",
+   "6152",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "10B18R2b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 674,
+  "legal": [
+   "2514",
+   "2516",
+   "2534",
+   "2536"
+  ]
+ },
+ {
+  "code": "11B18R1r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 971,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "1RB8b9R10r",
+  "outcome": "win",
+  "plies": 37,
+  "moves": 19,
+  "slot": 1618786,
+  "legal": [
+   "0312",
+   "0314",
+   "5241",
+   "5243",
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "2B9r4b12B1r",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 2658389,
+  "legal": [
+   "3021"
+  ]
+ },
+ {
+  "code": "10R1b6b12b",
+  "outcome": "win",
+  "plies": 43,
+  "moves": 22,
+  "slot": 5844877,
+  "legal": [
+   "3041",
+   "4756"
+  ]
+ },
+ {
+  "code": "4B25R1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 865,
+  "legal": [
+   "1001",
+   "1021"
+  ]
+ },
+ {
+  "code": "12b4r1r12b",
+  "outcome": "loss",
+  "plies": 46,
+  "moves": 23,
+  "slot": 2933053,
+  "legal": [
+   "3041"
+  ]
+ },
+ {
+  "code": "6B19R5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 838,
+  "legal": [
+   "6554",
+   "6556",
+   "6574",
+   "6576"
+  ]
+ },
+ {
+  "code": "10r2B3R14b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 193326,
+  "legal": [
+   "3254"
+  ]
+ },
+ {
+  "code": "25b5Rb",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2358944,
+  "legal": [
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "4R10b4R1b9r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1947370,
+  "legal": [
+   "1001",
+   "1021",
+   "5041",
+   "5061"
+  ]
+ },
+ {
+  "code": "18R3B9r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 598,
+  "legal": [
+   "4563"
+  ]
+ },
+ {
+  "code": "6R3B6b1r12r",
+  "outcome": "win",
+  "plies": 33,
+  "moves": 17,
+  "slot": 4302466,
+  "legal": [
+   "1436"
+  ]
+ },
+ {
+  "code": "1B25r2B1r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2371620,
+  "legal": [
+   "6756"
+  ]
+ },
+ {
+  "code": "4B16B7R2r",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 15622,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "9R6b12B2r",
+  "outcome": "loss",
+  "plies": 40,
+  "moves": 20,
+  "slot": 185117,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "4b13R13b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359629,
+  "legal": [
+   "1021"
+  ]
+ },
+ {
+  "code": "9B9b2r9r",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2530073,
+  "legal": [
+   "5443",
+   "5445"
+  ]
+ },
+ {
+  "code": "3R17b7B2r",
+  "outcome": "loss",
+  "plies": 34,
+  "moves": 17,
+  "slot": 179901,
+  "legal": [
+   "0716"
+  ]
+ },
+ {
+  "code": "9B10R11b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 715,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334"
+  ]
+ },
+ {
+  "code": "10r4B2b11B1r",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 2631122,
+  "legal": [
+   "2514",
+   "2516"
+  ]
+ },
+ {
+  "code": "R22Bb3B3b",
+  "outcome": "win",
+  "plies": 23,
+  "moves": 12,
+  "slot": 5056599,
+  "legal": [
+   "5645",
+   "5647",
+   "5665",
+   "5667",
+   "6172"
+  ]
+ },
+ {
+  "code": "R8R5r2B13b",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 394151,
+  "legal": [
+   "4527"
+  ]
+ },
+ {
+  "code": "1B5R7B16r",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 4602,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "7R1B7B5B8b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 2113752,
+  "legal": [
+   "2312",
+   "2314",
+   "2332",
+   "2334",
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "5645",
+   "5647",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "7r2R4R11B4r",
+  "outcome": "win",
+  "plies": 13,
+  "moves": 7,
+  "slot": 5059283,
+  "legal": [
+   "1605",
+   "1607",
+   "2514",
+   "2534",
+   "3627",
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "3b13r14r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512911,
+  "legal": [
+   "4332",
+   "4334"
+  ]
+ },
+ {
+  "code": "7B6B7R7r1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3820634,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "4b12BR3b9b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 6797633,
+  "legal": [
+   "1021",
+   "4332",
+   "4334",
+   "4352",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "B3BR13r12b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 1870618,
+  "legal": [
+   "0123"
+  ]
+ },
+ {
+  "code": "4bb19rb5r",
+  "outcome": "loss",
+  "plies": 14,
+  "moves": 7,
+  "slot": 3347962,
+  "legal": [
+   "6352",
+   "6354"
+  ]
+ },
+ {
+  "code": "B1b27r1r",
+  "outcome": "loss",
+  "plies": 10,
+  "moves": 5,
+  "slot": 2536688,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "5b7r18r",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 2512801,
+  "legal": [
+   "3221",
+   "3223"
+  ]
+ },
+ {
+  "code": "10rB5R11B2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1602094,
+  "legal": [
+   "2716",
+   "2736",
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "6r9r8R5Bb",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 671782,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "3b2b2r1R20r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 4733928,
+  "legal": [
+   "2305"
+  ]
+ },
+ {
+  "code": "9RR4b16b",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 2365980,
+  "legal": [
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "10R3B7R9b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 9675,
+  "legal": [
+   "3416"
+  ]
+ },
+ {
+  "code": "18R3rB3B4r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3691950,
+  "legal": [
+   "4534",
+   "4536",
+   "5443"
+  ]
+ },
+ {
+  "code": "1b3B18R2b4b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 6866619,
+  "legal": [
+   "0314",
+   "1201",
+   "1221",
+   "1223",
+   "6776"
+  ]
+ },
+ {
+  "code": "1BB12R1R14b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1399750,
+  "legal": [
+   "0312",
+   "0314",
+   "0514",
+   "0516"
+  ]
+ },
+ {
+  "code": "11b1b3r11R2r",
+  "outcome": "win",
+  "plies": 33,
+  "moves": 17,
+  "slot": 4837571,
+  "legal": [
+   "4321"
+  ]
+ },
+ {
+  "code": "15B7BR6Br",
+  "outcome": "loss",
+  "plies": 24,
+  "moves": 12,
+  "slot": 140699,
+  "legal": [
+   "6150",
+   "6152",
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "23b6r1r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2513295,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "5b6r6R12r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 3849073,
+  "legal": [
+   "3021",
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "2bR10R11B5r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1513690,
+  "legal": [
+   "0716",
+   "3423",
+   "3425",
+   "3443",
+   "3445"
+  ]
+ },
+ {
+  "code": "2R15R4R3b4r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 2273955,
+  "legal": [
+   "0514",
+   "0516",
+   "4534",
+   "4536",
+   "4554",
+   "5647",
+   "5665"
+  ]
+ },
+ {
+  "code": "R1R10b14R3b",
+  "outcome": "loss",
+  "plies": 24,
+  "moves": 12,
+  "slot": 2448008,
+  "legal": [
+   "3241",
+   "3243"
+  ]
+ },
+ {
+  "code": "4b14R1B10b",
+  "outcome": "win",
+  "plies": 33,
+  "moves": 17,
+  "slot": 3392164,
+  "legal": [
+   "1021",
+   "5241",
+   "5243",
+   "5261",
+   "5263"
+  ]
+ },
+ {
+  "code": "12b3r9b5r",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 2932153,
+  "legal": [
+   "4132"
+  ]
+ },
+ {
+  "code": "2b4b17B5rr",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 3265217,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "3B5b6R15r",
+  "outcome": "loss",
+  "plies": 42,
+  "moves": 21,
+  "slot": 191139,
+  "legal": [
+   "4130",
+   "4132",
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "11r10B1r7b",
+  "outcome": "loss",
+  "plies": 46,
+  "moves": 23,
+  "slot": 653199,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "2B6B14r2B4r",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2475827,
+  "legal": [
+   "6150",
+   "6152"
+  ]
+ },
+ {
+  "code": "5r6b19r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512584,
+  "legal": [
+   "1201",
+   "1203"
+  ]
+ },
+ {
+  "code": "8b6R3B10B1r",
+  "outcome": "loss",
+  "plies": 12,
+  "moves": 6,
+  "slot": 417926,
+  "legal": [
+   "3625",
+   "3627",
+   "3645"
+  ]
+ },
+ {
+  "code": "2R3R7R7B9r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 2073494,
+  "legal": [
+   "0516",
+   "1403",
+   "1423",
+   "1425",
+   "3423",
+   "3425",
+   "3443",
+   "3445"
+  ]
+ },
+ {
+  "code": "4b7BB15R2r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 610010,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "16b4b4r5r",
+  "outcome": "loss",
+  "plies": 44,
+  "moves": 22,
+  "slot": 2935822,
+  "legal": [
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "4B15b8R1rr",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 4667228,
+  "legal": [
+   "7261",
+   "7263",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "R2R15b12b",
+  "outcome": "loss",
+  "plies": 34,
+  "moves": 17,
+  "slot": 2364237,
+  "legal": [
+   "4756"
+  ]
+ },
+ {
+  "code": "7R16B7b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 248,
+  "legal": [
+   "6150",
+   "6152",
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "R2B10b3b13b",
+  "outcome": "win",
+  "plies": 27,
+  "moves": 14,
+  "slot": 6622995,
+  "legal": [
+   "0716",
+   "3443",
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "15b12r1R1b",
+  "outcome": "loss",
+  "plies": 4,
+  "moves": 2,
+  "slot": 2524177,
+  "legal": [
+   "3645",
+   "3647"
+  ]
+ },
+ {
+  "code": "6R24Br",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 223,
+  "legal": [
+   "1403",
+   "1405",
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "6b2R22b",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 2359574,
+  "legal": [
+   "1432"
+  ]
+ },
+ {
+  "code": "3b27rr",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 2513303,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "R17r6B6r",
+  "outcome": "win",
+  "plies": 37,
+  "moves": 19,
+  "slot": 3382641,
+  "legal": [
+   "0110",
+   "0112",
+   "4534",
+   "4536"
+  ]
+ },
+ {
+  "code": "5r6r17B1r",
+  "outcome": "win",
+  "plies": 41,
+  "moves": 21,
+  "slot": 5842198,
+  "legal": [
+   "1201",
+   "1203",
+   "3021"
+  ]
+ },
+ {
+  "code": "BR17r4b7b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3980662,
+  "legal": [
+   "0110",
+   "0112",
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "8B19r3r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359656,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "1b14b6r6B1r",
+  "outcome": "loss",
+  "plies": 12,
+  "moves": 6,
+  "slot": 3171590,
+  "legal": [
+   "5645",
+   "5647"
+  ]
+ },
+ {
+  "code": "12r6R10B1b",
+  "outcome": "loss",
+  "plies": 32,
+  "moves": 16,
+  "slot": 178028,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "4B5Rb15R4b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3664510,
+  "legal": [
+   "1001",
+   "1021",
+   "2736"
+  ]
+ },
+ {
+  "code": "R6R13r4b5r",
+  "outcome": "win",
+  "plies": 25,
+  "moves": 13,
+  "slot": 5689086,
+  "legal": [
+   "0110",
+   "0112",
+   "1605",
+   "1607",
+   "1625",
+   "1627",
+   "5241",
+   "5243"
+  ]
+ },
+ {
+  "code": "18b7r5r",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 2513178,
+  "legal": [
+   "6554",
+   "6556"
+  ]
+ },
+ {
+  "code": "19B2R9r",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 723,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465"
+  ]
+ },
+ {
+  "code": "6B5b2rR15b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 4319463,
+  "legal": [
+   "3052"
+  ]
+ },
+ {
+  "code": "8b10R7r4b",
+  "outcome": "loss",
+  "plies": 12,
+  "moves": 6,
+  "slot": 2530492,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "5RR6R2b15b",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2431142,
+  "legal": [
+   "4150",
+   "4152"
+  ]
+ },
+ {
+  "code": "B8b11r6B3b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 5715474,
+  "legal": [
+   "0110",
+   "0112",
+   "2332",
+   "2334",
+   "7061"
+  ]
+ },
+ {
+  "code": "13R10b4r2r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 3864156,
+  "legal": [
+   "7250"
+  ]
+ },
+ {
+  "code": "8r6B7B8r",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 2362028,
+  "legal": [
+   "2110",
+   "2112"
+  ]
+ },
+ {
+  "code": "3R4R7R14Bb",
+  "outcome": "loss",
+  "plies": 22,
+  "moves": 11,
+  "slot": 20440,
+  "legal": [
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "7r2r7b13b",
+  "outcome": "loss",
+  "plies": 36,
+  "moves": 18,
+  "slot": 2930979,
+  "legal": [
+   "4554",
+   "4556"
+  ]
+ },
+ {
+  "code": "14B4B8rB2r",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 2496543,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "R30Br",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 31,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "1R22B7r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 56,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "10bb7B1R10b",
+  "outcome": "win",
+  "plies": 33,
+  "moves": 17,
+  "slot": 6689022,
+  "legal": [
+   "2534",
+   "2536",
+   "2736",
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "16r3b9r1r",
+  "outcome": "win",
+  "plies": 19,
+  "moves": 10,
+  "slot": 6050280,
+  "legal": [
+   "4130",
+   "4132",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "b2R2r25r",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 3843244,
+  "legal": [
+   "0716",
+   "1403",
+   "1405"
+  ]
+ },
+ {
+  "code": "B13b2R2R11r",
+  "outcome": "win",
+  "plies": 25,
+  "moves": 13,
+  "slot": 1615296,
+  "legal": [
+   "4325"
+  ]
+ },
+ {
+  "code": "11R7B2b9r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 187091,
+  "legal": [
+   "2716",
+   "2736"
+  ]
+ },
+ {
+  "code": "4B11R3r7B3b",
+  "outcome": "win",
+  "plies": 55,
+  "moves": 28,
+  "slot": 1746927,
+  "legal": [
+   "1001",
+   "1021",
+   "7061"
+  ]
+ },
+ {
+  "code": "1R26Br2b",
+  "outcome": "loss",
+  "plies": 2,
+  "moves": 1,
+  "slot": 179294,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "14B4r12r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359374,
+  "legal": [
+   "4736"
+  ]
+ },
+ {
+  "code": "2R8b6B8b4b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 6656305,
+  "legal": [
+   "2736",
+   "4534",
+   "4536",
+   "4554",
+   "4556",
+   "6776"
+  ]
+ },
+ {
+  "code": "5b6r12B6b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 3861267,
+  "legal": [
+   "1221",
+   "1223",
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "22r2R2B3b",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 179494,
+  "legal": [
+   "7061"
+  ]
+ },
+ {
+  "code": "1BR18r8B1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1820381,
+  "legal": [
+   "0312",
+   "0314",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "4B25r1b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 176373,
+  "legal": [
+   "1001",
+   "1021"
+  ]
+ },
+ {
+  "code": "5R13R1b10r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 1420437,
+  "legal": [
+   "1201",
+   "1203",
+   "1221",
+   "1223",
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "7B19r4b",
+  "outcome": "win",
+  "plies": 7,
+  "moves": 4,
+  "slot": 176292,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "14R15BBb",
+  "outcome": "win",
+  "plies": 29,
+  "moves": 15,
+  "slot": 1153617,
+  "legal": [
+   "7463",
+   "7465",
+   "7665",
+   "7667"
+  ]
+ },
+ {
+  "code": "5b11R14b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359598,
+  "legal": [
+   "1221",
+   "1223"
+  ]
+ },
+ {
+  "code": "7b16r6rb",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2934861,
+  "legal": [
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "9B19R2r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 937,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "8b16R5Br",
+  "outcome": "loss",
+  "plies": 14,
+  "moves": 7,
+  "slot": 199199,
+  "legal": [
+   "6352",
+   "6354",
+   "6372",
+   "6374"
+  ]
+ },
+ {
+  "code": "12r10BB7r",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 2364043,
+  "legal": [
+   "3021"
+  ]
+ },
+ {
+  "code": "5r18B3B3r",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 2360674,
+  "legal": [
+   "1201",
+   "1203"
+  ]
+ },
+ {
+  "code": "1R11Bb17r",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 177869,
+  "legal": [
+   "0312",
+   "0314"
+  ]
+ },
+ {
+  "code": "R1B7b21r",
+  "outcome": "loss",
+  "plies": 38,
+  "moves": 19,
+  "slot": 176834,
+  "legal": [
+   "0110",
+   "0112"
+  ]
+ },
+ {
+  "code": "10B6B8r5b",
+  "outcome": "win",
+  "plies": 5,
+  "moves": 3,
+  "slot": 1421765,
+  "legal": [
+   "2514",
+   "2516",
+   "2534",
+   "2536",
+   "4332",
+   "4334",
+   "4352",
+   "4354"
+  ]
+ },
+ {
+  "code": "1R5Rb13R9b",
+  "outcome": "loss",
+  "plies": 8,
+  "moves": 4,
+  "slot": 2472249,
+  "legal": [
+   "2130",
+   "2132"
+  ]
+ },
+ {
+  "code": "6r6b4B13r",
+  "outcome": "loss",
+  "plies": 36,
+  "moves": 18,
+  "slot": 2515554,
+  "legal": [
+   "1403",
+   "1405"
+  ]
+ },
+ {
+  "code": "RB2b11R15b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3777368,
+  "legal": [
+   "0312",
+   "0314",
+   "1021"
+  ]
+ },
+ {
+  "code": "2BR20r7b",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 202748,
+  "legal": [
+   "0514",
+   "0516"
+  ]
+ },
+ {
+  "code": "1B9b15r4r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2534289,
+  "legal": [
+   "6756"
+  ]
+ },
+ {
+  "code": "7R14B1b7b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 3371664,
+  "legal": [
+   "5443",
+   "5445",
+   "5463",
+   "5465",
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "8r10b12b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2512791,
+  "legal": [
+   "4756"
+  ]
+ },
+ {
+  "code": "7R19B4r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 251,
+  "legal": [
+   "1605",
+   "1607",
+   "1625",
+   "1627"
+  ]
+ },
+ {
+  "code": "R16B9B4b",
+  "outcome": "win",
+  "plies": 25,
+  "moves": 13,
+  "slot": 1156671,
+  "legal": [
+   "4332",
+   "4334",
+   "4352",
+   "4354",
+   "6756",
+   "6776"
+  ]
+ },
+ {
+  "code": "2R2RR21B3r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 2062332,
+  "legal": [
+   "0516",
+   "1201",
+   "1203",
+   "1221",
+   "1223",
+   "1403",
+   "1423",
+   "1425"
+  ]
+ },
+ {
+  "code": "8Rr14b4B2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 3954991,
+  "legal": [
+   "6170",
+   "7263"
+  ]
+ },
+ {
+  "code": "4b10r13R2b",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2534450,
+  "legal": [
+   "1021"
+  ]
+ },
+ {
+  "code": "6R1r3B17B1b",
+  "outcome": "win",
+  "plies": 9,
+  "moves": 5,
+  "slot": 1584249,
+  "legal": [
+   "3012"
+  ]
+ },
+ {
+  "code": "9rb1b2r16r",
+  "outcome": "win",
+  "plies": 41,
+  "moves": 21,
+  "slot": 6412852,
+  "legal": [
+   "3614"
+  ]
+ },
+ {
+  "code": "2RB1b25Br",
+  "outcome": "loss",
+  "plies": 26,
+  "moves": 13,
+  "slot": 235908,
+  "legal": [
+   "0514",
+   "0516"
+  ]
+ },
+ {
+  "code": "1R6r11b3b7b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 6073678,
+  "legal": [
+   "6170",
+   "6172"
+  ]
+ },
+ {
+  "code": "12B4b11r2r",
+  "outcome": "loss",
+  "plies": 6,
+  "moves": 3,
+  "slot": 2536284,
+  "legal": [
+   "7261",
+   "7263"
+  ]
+ },
+ {
+  "code": "15b1B2Br10r",
+  "outcome": "loss",
+  "plies": 30,
+  "moves": 15,
+  "slot": 2782159,
+  "legal": [
+   "5234"
+  ]
+ },
+ {
+  "code": "6Rr12b2R8r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 5501312,
+  "legal": [
+   "1403",
+   "1405",
+   "1423",
+   "1425",
+   "1605",
+   "1607",
+   "5645",
+   "5647",
+   "5665",
+   "5667"
+  ]
+ },
+ {
+  "code": "18r1B9BBr",
+  "outcome": "loss",
+  "plies": 18,
+  "moves": 9,
+  "slot": 2448054,
+  "legal": [
+   "4534",
+   "4536"
+  ]
+ },
+ {
+  "code": "7R3R12r3B3b",
+  "outcome": "loss",
+  "plies": 28,
+  "moves": 14,
+  "slot": 250616,
+  "legal": [
+   "7052"
+  ]
+ },
+ {
+  "code": "2B5r23r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359010,
+  "legal": [
+   "2110",
+   "2112"
+  ]
+ },
+ {
+  "code": "1R18bb8B1b",
+  "outcome": "win",
+  "plies": 21,
+  "moves": 11,
+  "slot": 6560690,
+  "legal": [
+   "5061",
+   "5261",
+   "5263",
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "18b11R1r",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 176474,
+  "legal": [
+   "7463",
+   "7465"
+  ]
+ },
+ {
+  "code": "14b3Rr12r",
+  "outcome": "win",
+  "plies": 1,
+  "moves": 1,
+  "slot": 3855326,
+  "legal": [
+   "4523"
+  ]
+ },
+ {
+  "code": "5b18R7b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2359591,
+  "legal": [
+   "1221",
+   "1223"
+  ]
+ },
+ {
+  "code": "24b4R2b",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 2358978,
+  "legal": [
+   "6170"
+  ]
+ },
+ {
+  "code": "26B3R1b",
+  "outcome": "win",
+  "plies": 3,
+  "moves": 2,
+  "slot": 161,
+  "legal": [
+   "6554",
+   "6556",
+   "6576"
+  ]
+ },
+ {
+  "code": "3R1Rb17b7r",
+  "outcome": "draw",
+  "plies": 0,
+  "moves": 0,
+  "slot": 1878988,
+  "legal": [
+   "0716",
+   "1201",
+   "1203",
+   "1221",
+   "1223"
+  ]
+ },
+ {
+  "code": "B5r3r8R12r",
+  "outcome": "win",
+  "plies": 11,
+  "moves": 6,
+  "slot": 6550996,
+  "legal": [
+   "1403",
+   "1405",
+   "2516",
+   "4736",
+   "4756"
+  ]
+ },
+ {
+  "code": "7B3R4B2R12r",
+  "outcome": "win",
+  "plies": 31,
+  "moves": 16,
+  "slot": 1259871,
+  "legal": [
+   "2705"
+  ]
+ }
+]
