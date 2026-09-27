@@ -1,0 +1,39 @@
+{
+  "upload_type": "dataset",
+  "title": "Checkers endgame tablebase: all positions with four pieces or fewer, solved exactly",
+  "creators": [
+    {
+      "name": "Checkers Arena"
+    }
+  ],
+  "description": "<p><strong>6,408,836 American checkers (English draughts) positions with four pieces or fewer, each solved exactly:</strong> won, lost or drawn, with the exact distance to the end in plies. Not an evaluation and not a search — a lookup that is either right or the file is broken. Of the positions, 2,675,270 are won, 2,004,797 lost and 1,728,769 drawn, and <strong>the longest forced win takes 109 plies (55 moves)</strong>, which no time-limited search will ever find.</p><p>The table is a flat byte array, one byte per slot: 1.82 MB gzipped, 7.11 MB raw. It ships with a reader in a single standard-library Python module that also generates moves, so the data can be looked up and the endings played out without anything else installed. The indexing scheme is documented in full, and the shipped reader was written from that specification rather than translated from the generator — so the two implementations agreeing on 400 random positions (slot numbers, verdicts, distances and legal moves alike) is a real check rather than one implementation agreeing with itself.</p><p>Correctness was established four independent ways: the index is proved to be a bijection; local consistency was verified exhaustively across all 6.4 million entries; a separately written prover must reproduce the exact distance; and known textbook endings come out right (king against king drawn, two kings against one won in 11 moves, three against one in 7). One invariant needs no reference at all — a game ends when the loser has nothing left, so every win takes an odd number of plies and every loss an even number. In the shipped file all 2,675,270 winning distances are odd and none is even.</p><p><strong>Play any of it in the browser at <a href=\"https://checkersarena.io/checkers-endgame/\">checkersarena.io/checkers-endgame/</a></strong>, where the endings can be watched move by move. Rules: American checkers / English draughts on an 8×8 board, captures compulsory, kings move one square, crowning ends the turn.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "checkers",
+    "draughts",
+    "English draughts",
+    "endgame tablebase",
+    "retrograde analysis",
+    "combinatorial game theory",
+    "solved games",
+    "game AI",
+    "perfect play",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://checkersarena.io/checkers-endgame/",
+      "resource_type": "publication-webpage",
+      "scheme": "url"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Pixel4youcorp/checkers-endgame-tablebase",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Data licensed CC BY 4.0; the reader code in the repository is MIT. Attribution: Checkers endgame tablebase by Checkers Arena (https://checkersarena.io/), CC BY 4.0."
+}
